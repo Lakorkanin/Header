@@ -48,7 +48,8 @@ body {
 }
 
 .wrapper {
-    max-width: 1600px;
+    max-width: 1740px;
+    min-width: 480px;
     width: 100%;
 }
 
@@ -69,7 +70,7 @@ body {
 
 .logo {
     align-items: center;
-    margin-left: 81px;
+    margin-left: 19px;
     font-family: 'Playfair Display';
     font-size: 30px;
     font-weight: 900;
@@ -196,6 +197,7 @@ body {
 .main__img {
     width: 646px;
     height: 579px;
+    margin-left: auto;
 }
 .title__img {
 }
